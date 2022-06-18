@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+
+
+
+.haqqimizda{
+    width:100%;
+    height:auto;
+    background-color:#ff0000cc;
+    text-align: center;
+    color:#fff;
+    padding:25px;
+    overflow:hidden;
+
+}
+
+.haqqimizda img{
+    width:30%;
+    height:auto;
+    margin-top: 40px;
+}
+.haqqimizda h2{
+margin-top: 25px;
+
+    font-weight:bold;
+}
+.haqqimizda p{
+    margin-top:15px;
+}
+
+.haqqimizda button {
+    float: right;
+    padding:10px;
+    color:black;
+}
+
